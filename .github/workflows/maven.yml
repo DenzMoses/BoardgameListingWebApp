@@ -1,4 +1,4 @@
-name: Build Maven App
+name: Build Maven App2
 
 on:
   pull_request:
